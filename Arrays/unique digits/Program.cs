@@ -10,14 +10,14 @@ namespace unique_digits
     {
         static void Main(string[] args)
         {
-            int[] array = new int[51];
+            int[] array = new int[50];
             Random random = new Random();
             
-           for (int i = 1; i < 51; i++)
+           for (int i = 0; i < 50; i++)
             {
                 int randomNum = random.Next(1, 50);
                 array[i] = randomNum;
-                if( )
+              if( )
                 {
                     Console.WriteLine(array[i]);
                 }

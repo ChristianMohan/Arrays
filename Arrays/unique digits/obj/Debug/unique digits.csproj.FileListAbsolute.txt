@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\unique digits\bin\Debug\unique di
 C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\unique digits\bin\Debug\unique digits.pdb
 C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\unique digits\obj\Debug\unique digits.exe
 C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\unique digits\obj\Debug\unique digits.pdb
+C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\unique digits\obj\Debug\unique digits.csprojResolveAssemblyReference.cache
