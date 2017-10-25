@@ -18,6 +18,7 @@ namespace MinMax
             {
                 int randomNum = random.Next(1, 50);
                 array[i] = randomNum;
+
                 if(i % 10 == 0 && i != 0)
                 {
                     Console.WriteLine(" " + array[i]);

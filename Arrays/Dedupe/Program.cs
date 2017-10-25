@@ -13,14 +13,27 @@ namespace Dedupe
             int[] array = new int[5000];
             Random random = new Random();
             int i;
-            for(i = 0; i < 5000; i++)
+            for(i = 0; i < array.Length; i++)
             {
-                int randomNum = random.Next(1, 3);
+                int randomNum = random.Next(1, 50);
                 array[i] = randomNum;
-                
+                Array.Sort(array);
+
+                for (int j = i + 1; j <array.Length ; j++)
+                {
+                    if (array[i] == array[j])
+                    {
+                        array[i] = -1;
+                    }
+                    Console.Write(array[i] + " ");
+                }
+
+
 
             }
-            Console.Write(array[]);
+
+
+
 
         }
     }
