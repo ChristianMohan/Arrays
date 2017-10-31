@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dedupe", "Dedupe\Dedupe.csproj", "{13D10425-57DD-4E66-9B3C-0F0C1DC155F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tac Toe", "Tic Tac Toe\Tic Tac Toe.csproj", "{BB0D0423-0324-4908-A9E3-BA67EACA810F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{13D10425-57DD-4E66-9B3C-0F0C1DC155F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D10425-57DD-4E66-9B3C-0F0C1DC155F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D10425-57DD-4E66-9B3C-0F0C1DC155F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
