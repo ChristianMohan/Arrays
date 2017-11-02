@@ -12,38 +12,44 @@ namespace Dedupe
         {
             int[] array = new int[5000];
             Random random = new Random();
-            int i = 0;
-            int p;
 
-            for(p = 0; p< array.Length; p++)
+
+            for(int i = 0; i < array.Length; i++)
             {
-                int randomNum = random.Next(1, 50);
-                array[i] = randomNum;
-                i++;
+                array[i] = random.Next(0, 51);
+
             }
+            Array.Sort(array);
+            int check = 0;
 
-            for(i = 0; i < array.Length; i++)
+            for(int i = 0; i < array.Length; i++)
             {
 
-                
-
-                for (int j = i + 1; j <array.Length ; j++)
+                if(check != array[i])
                 {
-                    if (array[i] == array[j])
-                    {
-                        array[i] = -1;
-                    }
+                    check = array[i];
+                }
+                else
+                {
+                    array[i] = -1;
+                }
+
                     
                 }
 
-
+            Array.Sort(array);
+            for (int i = 0; i < array.Length; i++)
+            {
                 Console.Write(array[i] + " ");
-                
             }
+
+            
+
+        }
             
 
 
 
         }
     }
-}
+
