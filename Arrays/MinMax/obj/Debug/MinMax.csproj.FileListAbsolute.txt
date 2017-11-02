@@ -4,3 +4,10 @@ C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\MinMax\bin\Debug\MinMax.pdb
 C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.exe
 C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.pdb
 C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\bin\Debug\MinMax.exe
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\bin\Debug\MinMax.pdb
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.exe
+C:\Users\Christian\Documents\GitHub\Arrays\Arrays\MinMax\obj\Debug\MinMax.pdb

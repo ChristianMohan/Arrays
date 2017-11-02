@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{C91330A3-5C66-4D9C-8A55-25642652D378}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dedupe", "Dedupe\Dedupe.csproj", "{13D10425-57DD-4E66-9B3C-0F0C1DC155F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tac Toe", "Tic Tac Toe\Tic Tac Toe.csproj", "{BB0D0423-0324-4908-A9E3-BA67EACA810F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max 2", "Max 2\Max 2.csproj", "{5D19BB68-F215-4B65-8B86-F16636F62C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +41,15 @@ Global
 		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0D0423-0324-4908-A9E3-BA67EACA810F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D19BB68-F215-4B65-8B86-F16636F62C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D19BB68-F215-4B65-8B86-F16636F62C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D19BB68-F215-4B65-8B86-F16636F62C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D19BB68-F215-4B65-8B86-F16636F62C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D8EC1E-B194-42B1-A31F-DBDEC960470A}
 	EndGlobalSection
 EndGlobal
